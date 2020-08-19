@@ -1,3 +1,3 @@
 #Demo learning for Git
 
-Sample text
+Sample text message
